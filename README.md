@@ -46,7 +46,6 @@ npm or yarn
 
 
 Setup
-bash
 
 git clone https://github.com/your-username/playwright-mini-project.git
 
@@ -55,31 +54,25 @@ cd playwright-mini-project
 npm install
 
 
-🧪 Running Tests
-Run all tests:
 
-bash
+
+🧪 Running Tests
+
+Run all tests:
 npx playwright test
 
 
-Run a specific test:
-
-bash
-npx playwright test tests/mouseActions.spec.ts
+Run a specific test
+npx playwright test tests/addtocart.spec.js
 
 
 View test report:
-
-bash
 npx playwright show-report
 
 
 📁 Artifacts
 Screenshots: test-results/screenshots/
 
-Videos: test-results/videos/
-
-Uploaded test files: test-data/
 
 🙌 Author
 Igwe Orji
