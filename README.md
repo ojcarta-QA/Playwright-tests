@@ -1,6 +1,5 @@
 # Playwright-tests
 
-Playwright Tests
 This is a mini project demonstrating core automation functionalities using Playwright. The project simulates user interactions on different platforms and showcases essential test automation skills, including:
 
  Feature                 | Description 
