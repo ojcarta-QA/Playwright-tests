@@ -49,7 +49,9 @@ Setup
 bash
 
 git clone https://github.com/your-username/playwright-mini-project.git
+
 cd playwright-mini-project
+
 npm install
 
 
