@@ -43,10 +43,10 @@ Prerequisites
 
 Node.js (v16+)
 npm or yarn
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-**Setup**
+Setup
 
 git clone https://github.com/your-username/playwright-mini-project.git
 
