@@ -48,7 +48,7 @@ npm or yarn
 
 Setup
 
-git clone https://github.com/your-username/playwright-mini-project.git
+git clone (https://github.com/ojcarta-QA/Playwright-tests.git)
 
 cd playwright-mini-project
 
